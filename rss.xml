@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SUP Switzerland]]></title>
         <description><![CDATA[SUP Switzerland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sup-switzerland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 10:56:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 10:56:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sup-switzerland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29eb43c3-307d-4f86-bf69-b0773f9cd08d.JPG">]]></description>
+            <link>https://thegrid.ai/sup-switzerland/1b437c21-7de4-44b0-8641-770fc78205a7/index.html</link>
+            <guid isPermaLink="false">1b437c21-7de4-44b0-8641-770fc78205a7</guid>
+            <pubDate>Thu, 04 Feb 2016 10:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0feb0e9f-3c48-4b66-8e97-d204b4df41d6.jpg">]]></description>
-            <link>undefined7f894eb4-ed63-41f3-a88e-60a20d55562c/index.html</link>
+            <link>https://thegrid.ai/sup-switzerland/7f894eb4-ed63-41f3-a88e-60a20d55562c/index.html</link>
             <guid isPermaLink="false">7f894eb4-ed63-41f3-a88e-60a20d55562c</guid>
             <pubDate>Thu, 04 Feb 2016 10:55:56 GMT</pubDate>
         </item>
