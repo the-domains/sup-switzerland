@@ -1,0 +1,28 @@
+name: SUP Switzerland
+favicon: null
+layout_spectrum: 0.22818834148347378
+typography_spectrum: 0.5664018020033836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7262070158030838
+  lightness: 0.9427055490668863
+  saturation: 0.21891288366168737
+  rhythmicContrast: 0.2698468503076583
+purpose: []
